@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EDAT_JD25_P01
+namespace UI.NumerosAleatorios
 {
     internal class Empleadoo
     {

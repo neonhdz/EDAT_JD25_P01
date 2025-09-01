@@ -1,6 +1,6 @@
-﻿namespace EDAT_JD25_P01
+﻿namespace UI.NumerosAleatorios
 {
-    partial class Datos_aleatorios
+    partial class DatosAleatorios
     {
         /// <summary>
         /// Variable del diseñador necesaria.

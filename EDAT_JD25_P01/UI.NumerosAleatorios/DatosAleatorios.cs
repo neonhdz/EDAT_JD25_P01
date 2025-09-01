@@ -8,14 +8,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace EDAT_JD25_P01
+namespace UI.NumerosAleatorios
 {
-    public partial class Datos_aleatorios : Form
+    public partial class DatosAleatorios : Form
     {
-        private DatosRandom Dr = new DatosRandom();
-        public Datos_aleatorios()
+        private DatosRandom Dr=new DatosRandom();
+        public DatosAleatorios()
         {
             InitializeComponent();
         }

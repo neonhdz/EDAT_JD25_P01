@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static EDAT_JD25_P02.Empleadoo;
+using static UI.NumerosAleatorios.Empleadoo;
 
-namespace EDAT_JD25_P02
+namespace UI.NumerosAleatorios
 {
     internal class DatosRandom
     {

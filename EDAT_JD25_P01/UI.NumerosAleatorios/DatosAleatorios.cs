@@ -1,19 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Drawing.Text;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace UI.NumerosAleatorios
 {
     public partial class DatosAleatorios : Form
     {
-        private DatosRandom Dr=new DatosRandom();
+        private DatosRandom Dr = new DatosRandom();
         public DatosAleatorios()
         {
             InitializeComponent();

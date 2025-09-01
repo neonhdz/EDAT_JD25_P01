@@ -234,7 +234,7 @@
             this.sueldo.Size = new System.Drawing.Size(171, 22);
             this.sueldo.TabIndex = 20;
             // 
-            // Datos_aleatorios
+            // DatosAleatorios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;

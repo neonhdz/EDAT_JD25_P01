@@ -1,22 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace UI.NumerosAleatorios
 {
     internal class Empleadoo
     {
 
-        
-        
+
+
         public class Empleado
         {
 
             private int numero;
             private string nombre;
-            private bool sexo,seguro;
+            private bool sexo, seguro;
             private DateTime fechaNacimiento;
             private char grupo;
             private double salario;
@@ -31,33 +27,40 @@ namespace UI.NumerosAleatorios
                 this.salario = salario;
                 this.seguro = seguro;
             }
-            public int Numero{
+            public int Numero
+            {
                 get => numero;
                 set => numero = value;
             }
-            public string Nombre{
+            public string Nombre
+            {
                 get => nombre;
                 set => nombre = value;
             }
-            public bool Sexo{
+            public bool Sexo
+            {
                 get => sexo;
                 set => sexo = value;
             }
-            public DateTime FechaNacimiento{
+            public DateTime FechaNacimiento
+            {
                 get => fechaNacimiento;
                 set => fechaNacimiento = value;
             }
-            public double Salario{
+            public double Salario
+            {
                 get => salario;
                 set => salario = value;
             }
-            public bool Seguro{
+            public bool Seguro
+            {
                 get => seguro;
                 set => seguro = value;
             }
-            public char Grupo{
-                get=>grupo;
-                set=>grupo=value;
+            public char Grupo
+            {
+                get => grupo;
+                set => grupo = value;
             }
         }
 

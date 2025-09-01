@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EDAT_JD25_P02
+namespace EDAT_JD25_P01
 {
     internal class Empleadoo
     {

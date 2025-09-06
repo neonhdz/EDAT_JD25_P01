@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesLambda", "Funcione
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplejidadAlgoritmos", "ComplejidadAlgoritmos\ComplejidadAlgoritmos.csproj", "{B52F8B2D-E41C-4101-99BA-A67B10DA472C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaExpresionesLambda", "PracticaExpresionesLambda\PracticaExpresionesLambda.csproj", "{4EC580B8-4DDC-4953-AC17-94CA1C0788D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea02PracticaExpresionesLambdaNET", "PracticaExpresionesLambda\Tarea02PracticaExpresionesLambdaNET.csproj", "{4EC580B8-4DDC-4953-AC17-94CA1C0788D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursividad.Consola", "Recursividad.Consola\Recursividad.Consola.csproj", "{1048320B-D990-4A56-857E-6B1DC8099972}"
 EndProject

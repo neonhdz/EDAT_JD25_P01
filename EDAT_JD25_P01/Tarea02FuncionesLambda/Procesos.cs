@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FuncionesLambda
+namespace Tarea02FuncionesLambda
 {
-    public class Persona
+    internal class Procesos
     {
-
     }
 }

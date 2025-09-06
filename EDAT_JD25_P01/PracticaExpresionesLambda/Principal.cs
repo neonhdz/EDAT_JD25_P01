@@ -84,7 +84,7 @@
         };
         string resultado = multstr("Hola", 3);
         Console.WriteLine(resultado);  // Salida: HolaHolaHola
-        Console.WriteLine("___________________________________________________\n");
+        Console.WriteLine("___________________________________________________ \n");
 
         Console.ReadKey();
     }
